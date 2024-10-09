@@ -1,2 +1,2 @@
 # Razorpay-Ui-Clone
-Razorpay UI Clone
+Razorpay UI Clone  project is a front-end clone of the Razorpay user interface built using HTML and Tailwind CSS. It replicates the essential design elements and user interactions of Razorpay's payment gateway interface, focusing on responsive layouts, typography, and overall user experience. The aim is to recreate the look and feel of the original design while practicing modern web development techniques with a utility-first CSS framework.
